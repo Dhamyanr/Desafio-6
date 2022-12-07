@@ -1,0 +1,19 @@
+#prueba {
+color: aqua;
+}
+#cards {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+
+}
+#card {
+    padding: 10px;
+}
+body {
+    background-image: url(assest/fondo-tecnologia-ancho-negro_79145-249.webp);
+}
+fieldset {
+    color: aliceblue;
+}
